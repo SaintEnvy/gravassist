@@ -1,0 +1,40 @@
+{
+    "Byeo": {
+        "Binds": {
+            "Keybind": "Rbutton",
+            "Pause": "Esc",
+            "Reload": "R"
+        },
+        "Color": {
+            "Saturation": 25
+        },
+        "Bezier": {
+            "LinearCurveX": 0.1,
+            "LinearCurveY": 0.1
+        },
+        "Easing": {
+            "SmoothnessX": 13,
+            "SmoothnessY": 13,
+            "SmoothingReplicatorX": 4,
+            "SmoothingReplicatorY": 4,
+            "SmoothingDividerX": 360,
+            "SmoothingDividerY": 360,
+            "Prediction": {
+                "Enabled": true,
+                "Mode": "Multiplication",
+                "PredictionX": 8,
+                "PredictionY": 10
+            }
+        },
+        "Misc": {
+            "AimbotUpdateTick": 600,
+            "AimbotUpdateMS": 800,
+            "CameraToGunFOV": 70,
+            "FlickTime" : 1
+        },
+        "FOV": {
+            "FOVOffsetX": 4,
+            "FOVOffsetY": 4
+        }
+    }
+}
