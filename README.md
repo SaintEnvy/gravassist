@@ -1,2 +1,2 @@
-# https://discord.gg/ng9ABDvsjU
-# x0ash
+# @grave_evarg
+# https://discord.gg/vGe9NjnXBJ
